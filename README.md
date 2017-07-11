@@ -93,3 +93,16 @@ Plus précisément, cela veut dire que l’utilisateur possède quatre libertés
 Selon la notion de copyleft, l'auteur/le concepteur n’autorise pas que son travail puisse évoluer avec une restriction de ces possibilités.
 Il s ‘agit dès lors d’une exigence de réciprocité où le contributeur apportant une modification (correction, ajout, réutilisation, etc.) est contraint de redistribuer ses propres contributions avec les mêmes conditions d'utilisation que l'oeuvre originale.
 
+
+
+5. Que sont les Creatives Commons ?
+
+https://fr.wikipedia.org/wiki/Creative_Commons
+Ce sont des licences, qui proposent une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs 
+Six possibilités existent, combinaisons de quatre pôles définissant les différents usages :
+
+    Attribution : signature de l’auteur initial (obligatoire en droit français) (sigle : BY)
+    Non Commercial : interdiction de tirer un profit commercial de l’œuvre sans autorisation de l'auteur (sigle : NC)
+    No derivative works : impossibilité d’intégrer tout ou partie dans une œuvre composite ; l'échantillonnage (sampling), par exemple, devenant impossible (sigle : ND)
+    Share alike : partage de l’œuvre, avec obligation de rediffuser selon la même licence ou une licence similaire (version ultérieure ou localisée) (sigle : SA)
+
