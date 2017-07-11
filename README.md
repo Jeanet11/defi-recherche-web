@@ -64,7 +64,32 @@ Il possède 8 bits et 254 noms d'hôtes.
 https://fr.wikipedia.org/wiki/Localhost	
  C'est l'adresse de localhost (l’hôte local en français) qui est le nom habituel qui désigne une interface logique de l’ordinateur local.
 
- 
 
 
+4. Que sont le copyright et le copyleft ?
+
+http://www.synodes.fr/logiciels-libre-et-open-source-quand-parle-t-de-licence-contaminante
+Le copyright est fondé sur la protection de l’auteur et se présente comme un droit privatif.
+L’auteur bénéficie de 5 droits principaux:
+
+    le droit de reproduction
+    le droit de distribution
+    le droit de modification
+    le droit de mise en scène
+    le droit d’affichage.
+
+D’un point de vue juridique, seul le propriétaire des droits patrimoniaux (copyright) peut décider de la diffusion du logiciel.
+
+Le copyleft garantit exclusivement les droits des utilisateurs, en définissant leurs libertés.
+Le copyleft donne aux utilisateurs la liberté d'exécuter, de copier, de distribuer, d'étudier, de modifier et d'améliorer les logiciels, mais sans toutefois lui donner la permission d’ajouter des restrictions de son choix.
+
+Plus précisément, cela veut dire que l’utilisateur possède quatre libertés :
+
+    la liberté d'exécuter le programme, pour n'importe quel usage
+    la liberté d'étudier le fonctionnement du programme et de l'adapter à ses besoins - une condition préalable est d'accéder au code source- ;
+    la liberté d'en redistribuer des copies pour aider les autres, soit gratuitement soit contre rémunération,
+    la liberté d'améliorer le programme et de rendre publiques ses améliorations pour que toute la communauté en bénéficie.
+
+Selon la notion de copyleft, l'auteur/le concepteur n’autorise pas que son travail puisse évoluer avec une restriction de ces possibilités.
+Il s ‘agit dès lors d’une exigence de réciprocité où le contributeur apportant une modification (correction, ajout, réutilisation, etc.) est contraint de redistribuer ses propres contributions avec les mêmes conditions d'utilisation que l'oeuvre originale.
 
