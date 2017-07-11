@@ -32,3 +32,39 @@ Néanmoins, c'est la création du web par Tim Berners-Lee en 1989 qui a populari
 
 Pour expliquer autrement la différence entre web et Internet, on pourrait dire que le web n'est pas l'Internet mais sa principale application. Il s'agit d'un système de publication et de consultation de documents : des sons, des images et des textes comme l'article que vous êtes en train de lire...
 
+
+
+3.Qu’est-ce que cela :
+    8.8.8.8
+    192.168.0.1
+    255.255.255.0
+    127.0.0.1
+
+ 	
+https://fr.wikipedia.org/wiki/Google_Public_DNS
+ 	8.8.8.8. est l'adresse IP de Google Public DNS, qui est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. 
+
+ 
+http://www.commentcamarche.net/faq/8102-192-168-1-1-192-168-0-1-comment-y-acceder
+ 	192.168.0.1 
+L'adresse http://192.168.0.1  est généralement le moyen le plus simple d'accéder à votre box internet pour la configurer. 
+
+Les plages d'adresses 192.168.0.0/24 et 192.168.1.0/24 sont des réseaux privés (adresses non routables sur l'internet global) utilisés pour les réseaux personnels ou les réseaux internes de petites entreprises. Les réseaux de type 192.168.0.0 permettent d'avoir jusqu'à 254 machines en réseau local (192.168.0.1 à 192.168.0.254). Ce sont donc les réseaux créés par les box des fournisseurs d'accès.
+
+Par défaut, la passerelle de ce réseau (généralement un routeur, la plupart du temps la box du FAI elle-même), c'est-à-dire la machine connectée au réseau Internet et donnant accès à ce réseau aux machines du réseau local, prend par défaut l'adresse 192.168.0.1. Il affecte ensuite aux machines du réseau les adresses 192.168.0.2 à 192.168.0.254
+
+	255.255.255.0
+https://www.lifewire.com/255-255-255-0-ip-networking-818371
+The 255.255.255.0 address is the most common subnet mask used on computers connected to Internet Protocol (IPv4) networks.
+
+https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau
+Il possède 8 bits et 254 noms d'hôtes.
+
+	127.0.0.1
+https://fr.wikipedia.org/wiki/Localhost	
+ C'est l'adresse de localhost (l’hôte local en français) qui est le nom habituel qui désigne une interface logique de l’ordinateur local.
+
+ 
+
+
+
