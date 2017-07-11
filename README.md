@@ -112,3 +112,8 @@ Six possibilités existent, combinaisons de quatre pôles définissant les diff�
 https://fr.wikipedia.org/wiki/Grace_Hopper
 Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
 
+7. Qu'est-ce que Qwant ?
+
+http://www.lesnumeriques.com/vie-du-net/decouvrir-utiliser-qwant-moteur-recherche-internet-francais-a2617.html
+ C'est un moteur de recherche français dont le modèle économique est basé non pas sur la publicité, mais sur des commissions prélevées aux boutiques en ligne lorsque des internautes y réalisent des achats via sa catégorie Shopping. Le modèle de Qwant repose également sur le principe du respect de la vie privée. Le moteur s'engage non seulement à ne pas filtrer le contenu du Web, mais également à ne pas tracer ses utilisateurs.
+  
