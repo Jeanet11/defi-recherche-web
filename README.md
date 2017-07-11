@@ -106,3 +106,9 @@ Six possibilités existent, combinaisons de quatre pôles définissant les diff�
     No derivative works : impossibilité d’intégrer tout ou partie dans une œuvre composite ; l'échantillonnage (sampling), par exemple, devenant impossible (sigle : ND)
     Share alike : partage de l’œuvre, avec obligation de rediffuser selon la même licence ou une licence similaire (version ultérieure ou localisée) (sigle : SA)
 
+
+6. Qui est Grace Hopper ?
+
+https://fr.wikipedia.org/wiki/Grace_Hopper
+Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+
